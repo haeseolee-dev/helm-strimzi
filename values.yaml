@@ -1,4 +1,4 @@
-# Default values for strimzi-kafka-operator.
+namespace: kafka
 
 # Default replicas for the cluster operator
 replicas: 1
